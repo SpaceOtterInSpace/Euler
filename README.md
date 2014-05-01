@@ -1,4 +1,4 @@
 Euler
 =====
 
-Solves problems from the euler website
+Solves problems from the Project Euler website
